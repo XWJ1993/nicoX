@@ -1,2 +1,2 @@
 # nicoX
-andorid项目-智慧北京
+andorid项目-legoX专区
